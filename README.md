@@ -33,3 +33,4 @@ web-test-runner test/blocks/hero/hero.test.js --node-resolve --watch
 1. Start Helix Pages Proxy: `hlx up` (opens your browser at `http://localhost:3000`)
 1. Go to http://localhost:3000/de/semiconductor-manufacturing-technology/news-und-events/smt-pressemeldung/zeiss-trumpf-und-fraunhofer-mit-deutschem-zukunftspreis-ausgezeichnet
 1. Open the `{repo}` directory in your favorite IDE and start coding :)
+
