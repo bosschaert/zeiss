@@ -3,6 +3,7 @@
 
   "updateContentCommand": "npm install",
   "postStartCommand": "hlx up",
+  "postAttachCommand": "$BROWSER http://localhost:3000",
 
   "features": {
   }
