@@ -1,5 +1,5 @@
 {
-  "image": "bosschaert/hlx_cs:latest",
+  "image": "bosschaert/hlx_cs:0.0.1",
   "features": {
   }
 }
