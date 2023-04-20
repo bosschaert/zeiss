@@ -2,7 +2,7 @@
   "image": "bosschaert/hlx_cs:0.0.1",
 
   "updateContentCommand": "npm install",
-  "postStartCommand": "hlx up &",
+  "postCreateCommand": "hlx up &",
 
   "features": {
   }
