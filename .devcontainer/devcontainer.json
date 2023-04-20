@@ -1,5 +1,8 @@
 {
   "image": "bosschaert/hlx_cs:0.0.1",
+
+  "postCreateCommand": "npm install && hlx up",
+
   "features": {
   }
 }
