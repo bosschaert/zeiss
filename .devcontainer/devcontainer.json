@@ -2,7 +2,7 @@
   "image": "bosschaert/hlx_cs:0.0.1",
 
   "updateContentCommand": "npm install",
-  "postCreateCommand": "hlx up &",
+  "postCreateCommand": "$BROWSER http://localhost:3000 && hlx up",
 
   "features": {
   }
