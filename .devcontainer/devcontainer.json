@@ -4,6 +4,11 @@
   "updateContentCommand": "npm install",
   "postCreateCommand": "hlx up",
 
-  "features": {
+  "customizations": {
+      "vscode": {
+          "extensions": [
+                "${containerWorkspaceFolder}/.devcontainer/vsix/franklin-codespaces-0.0.1.vsix"
+          ]
+      }
   }
 }
