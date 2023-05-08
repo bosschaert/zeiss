@@ -20,7 +20,7 @@ export function addBackLink(block, locale, placeholders, curPath) {
   // to change the color of the arrow. They are put in the correct position via the
   // 'order' attribute in the CSS.
   bl.innerHTML = `<a href="/${locale}/${placeholders.newseventsbase}/"
-    class="back-link">${placeholders.backtonewsevents}</a>
+    class="back-link">Hi de hi! ${placeholders.backtonewsevents}</a>
   <a href="/${locale}/${placeholders.newseventsbase}/" class="back-link-icon">
     <svg focusable="false" xmlns:xlink="http://www.w3.org/1999/xlink"">
       <use xlink:href="/icons/symbols-sprite.svg#svgsymbol-chevron-left"></use>
